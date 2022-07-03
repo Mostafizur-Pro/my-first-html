@@ -1,0 +1,39 @@
+body {
+  background-image: url(home_page.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: unset;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 80px;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgba(255, 255, 255, 0.39);
+  padding: 20px;
+  text-decoration: none;
+}
+.whitecolor {
+  color: rgb(255, 255, 255);
+}
+.text {
+  color: rgba(255, 255, 255, 0.39);
+}
+div {
+  padding-left: 100px;
+}
+#style {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-decoration: underline;
+  text-decoration-color: rgba(0, 255, 255, 0.466);
+}
+tr {
+  padding-left: 100px;
+}
