@@ -1,8 +1,8 @@
 body {
   background-image: url(home_page.jpg);
   background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-size: unset;
+  background-attachment: fixed;
+  background-size: cover;
 }
 ul {
   list-style-type: none;
